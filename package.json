@@ -1,6 +1,6 @@
 {
   "name": "vite-copy-plugin",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "vite copy plugin",
   "main": "index.js",
   "scripts": {
@@ -13,9 +13,11 @@
   ],
   "author": "CcSimple",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "fs-extra": "^10.1.0",
-    "path": "^0.12.7",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
     "vite": "^2.9.9"
   }
 }
