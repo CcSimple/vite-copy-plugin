@@ -1,0 +1,21 @@
+{
+  "name": "vite-copy-plugin",
+  "version": "0.3.0",
+  "description": "vite copy plugin",
+  "main": "index.js",
+  "scripts": {
+    "pub": "npm publish"
+  },
+  "keywords": [
+    "vite",
+    "copy",
+    "plugin"
+  ],
+  "author": "CcSimple",
+  "license": "MIT",
+  "devDependencies": {
+    "fs-extra": "^10.1.0",
+    "path": "^0.12.7",
+    "vite": "^2.9.9"
+  }
+}
